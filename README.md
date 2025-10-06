@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VinsenAde
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT and BOOTSTRAP
-- 💞️ I’m looking to collaborate on Website Project for Beginner Web Developer
-- 📫 How to reach me contact my instagram @vinnsen.ad
+- 👀 I’m interested in Web and Game Development
+- 🌱 I’m currently learning HTML CSS JAVASCRIPT BOOTSTRAP C++
+- 💞️ I’m looking to collaborate on Website and Game Project
+
 
 <!---
 VinsenAde/VinsenAde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
